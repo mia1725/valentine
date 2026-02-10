@@ -48,7 +48,7 @@ export function ProposalCard({ onYes }: ProposalCardProps) {
         {/* Typewriter subtitle */}
         <p className="text-center text-pink-500 text-base sm:text-lg md:text-xl mb-10 min-h-[2rem]">
           <Typewriter
-            text="I promise unlimited love & food, hehe 🥺👉👈"
+            text="I promise unlimited love & food heheee 🥺👉👈"
             speed={50}
           />
         </p>
