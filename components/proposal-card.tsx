@@ -42,7 +42,7 @@ export function ProposalCard({ onYes }: ProposalCardProps) {
 
         {/* Title */}
         <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl text-center text-pink-700 mb-4 text-balance leading-tight">
-          Will you be my Valentine?
+          Ishat Chhipaaaa, Will you be my Valentine?
         </h1>
 
         {/* Typewriter subtitle */}
