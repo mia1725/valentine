@@ -42,13 +42,13 @@ export function ProposalCard({ onYes }: ProposalCardProps) {
 
         {/* Title */}
         <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl text-center text-pink-700 mb-4 text-balance leading-tight">
-          Ishat Chhipaaaa, Will you be my Valentine?
+          Ishat Chhipaaa, Will you be my Valentine?
         </h1>
 
         {/* Typewriter subtitle */}
         <p className="text-center text-pink-500 text-base sm:text-lg md:text-xl mb-10 min-h-[2rem]">
           <Typewriter
-            text="I promise unlimited love, food & memes 🥺👉👈"
+            text="I promise unlimited love & food, hehe 🥺👉👈"
             speed={50}
           />
         </p>
